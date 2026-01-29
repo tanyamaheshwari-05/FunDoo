@@ -1,0 +1,140 @@
+{
+  "users": [
+    {
+      "id": "6d32",
+      "firstName": "tany",
+      "lastName": "roy",
+      "email": "wash123@gmail.com",
+      "password": "12345678"
+    }
+  ],
+  "notes": [
+    {
+      "id": "4c55",
+      "title": "cjkusgc",
+      "description": "cnkshjs",
+      "color": "#fff8b8",
+      "archive": false,
+      "userId": "6d32",
+      "onTrash": true
+    },
+    {
+      "id": "2b92",
+      "title": "",
+      "description": "  nbjccccccccccccccc",
+      "color": "#b4ddd3",
+      "archive": false,
+      "userId": "6d32",
+      "onTrash": true
+    },
+    {
+      "id": "ebe1",
+      "title": "",
+      "description": "ckljacba",
+      "color": "#d4e4ed",
+      "archive": false,
+      "userId": "6d32",
+      "onTrash": false,
+      "isTrash": true
+    },
+    {
+      "id": "a7b8",
+      "title": "",
+      "description": "tanya",
+      "color": "#fff",
+      "archive": false,
+      "userId": "6d32",
+      "onTrash": true
+    },
+    {
+      "id": "72bc",
+      "title": "hi",
+      "description": "",
+      "color": "#fff",
+      "archive": false,
+      "userId": "6d32",
+      "onTrash": true
+    },
+    {
+      "id": "2fa6",
+      "title": "",
+      "description": "ya",
+      "color": "#e2f6d3",
+      "archive": false,
+      "userId": "6d32",
+      "onTrash": false
+    },
+    {
+      "id": "6900",
+      "title": "",
+      "description": "tanysu",
+      "color": "#d3bfdb",
+      "archive": false,
+      "onTrash": true,
+      "userId": "6d32"
+    },
+    {
+      "id": "ff22",
+      "title": "",
+      "description": "cjnkjsnkvld",
+      "color": "#f39f76",
+      "archive": false,
+      "onTrash": false,
+      "userId": "6d32"
+    },
+    {
+      "id": "451c",
+      "title": "",
+      "description": "mllmala",
+      "color": "#e2f6d3",
+      "archive": false,
+      "onTrash": false,
+      "userId": "6d32"
+    },
+    {
+      "id": "a8be",
+      "title": "",
+      "description": "dlkxmmm",
+      "color": "#d4e4ed",
+      "archive": false,
+      "onTrash": false,
+      "userId": "6d32"
+    },
+    {
+      "id": "988b",
+      "title": "",
+      "description": "zxcv",
+      "color": "#e2f6d3",
+      "archive": false,
+      "onTrash": false,
+      "userId": "6d32"
+    },
+    {
+      "id": "bfde",
+      "title": "",
+      "description": "ddfgfbnb",
+      "color": "#faafa8",
+      "archive": false,
+      "onTrash": false,
+      "userId": "6d32"
+    },
+    {
+      "id": "25ac",
+      "title": "",
+      "description": "qwertgh",
+      "color": "#f39f76",
+      "archive": false,
+      "onTrash": false,
+      "userId": "6d32"
+    },
+    {
+      "id": "6523",
+      "title": "",
+      "description": "bnmm,",
+      "color": "#faafa8",
+      "archive": false,
+      "onTrash": false,
+      "userId": "6d32"
+    }
+  ]
+}

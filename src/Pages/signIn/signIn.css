@@ -1,0 +1,80 @@
+.signInPage {
+    height:auto;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    background-color: #ffffff;
+}
+
+.SignInCard {
+    width: 450px;
+    height: auto;
+    border-radius: 8px !important;
+    border: 1px solid #dadce0 ;
+}
+
+.signInContent {
+    display: flex;
+    flex-direction: column;
+    align-items: center; 
+    padding: 35px !important;
+}
+
+.fundoLogo {
+    color: #d32a54ff;
+    font-weight: bold !important;
+}
+
+.formBox {
+    width: 100%;
+    margin-top: 9px;
+}
+
+.inputField {
+    margin-top: -5px !important;
+    /* line-height: 6rem; */
+    margin:normal;
+}
+.inputField2 {
+    margin-top: 50px !important;
+}
+
+/* .forgot {
+    color: #1a73e8;
+    font-weight: 600;
+    cursor: pointer;
+    
+    text-align: left;
+} */
+/* 
+.guestMode {
+    color: #5f6368;
+    text-align: left;
+    margin-top: 30px !important;
+    margin-bottom: 40px !important;
+    line-height: 1.6 !important;
+}
+.guestMode .forgot{
+    font-weight: normal;
+} */
+.signInFooter {
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+    margin-top:40px;
+
+    width: 100%;
+}
+
+.textBtn {
+    text-transform: none !important;
+    font-weight: bold !important;
+    color: #1a73e8 !important;
+    margin-left:-5px;
+}
+
+.nextBtn {
+    text-transform: none !important;
+    padding: 6px 24px !important;
+    background-color: #1a73e8 !important;
+}
