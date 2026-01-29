@@ -1,23 +1,38 @@
 📝 Fundoo Notes :
+
 This repository contains the  implementation of Fundoo Notes, a Google Keep–like notes application.
+
 The project focuses on building a modern, responsive UI using React and Material UI, while understanding real-world frontend concepts like state management, component structure, and user interactions.
 
 🚀 Features
+
 ✍️ Create notes with title and content
+
 🎨 Change note background colors
+
 📌 Grid view & List view toggle
+
 🗂️ Archive notes functionality
+
 🗑️ Delete notes
 
 
 🎯 Clean component-based architecture
+
 🛠 Tech Stack
+
 React.js
+
 JavaScript (ES6+)
+
 Material UI (MUI)
+
 HTML5
+
 CSS3
+
 Vite
+
 VS Code
 
 📅 Learning Progress
@@ -72,5 +87,7 @@ Implementing interactive features (hover, click, toggle)
 🧑‍💻 Author
 
 Tanya Maheshwari
+
 B.Tech Student
+
 Frontend Developer (Learning Phase)
